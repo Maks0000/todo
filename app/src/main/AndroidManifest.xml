@@ -10,7 +10,8 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MaterialComponents.DayNight.NoActionBar">
         <activity android:name=".MainActivity"
-        android:windowSoftInputMode="stateAlwaysHidden">
+        android:windowSoftInputMode="stateAlwaysHidden"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
