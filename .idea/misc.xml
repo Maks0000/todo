@@ -3,7 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/maksy/AndroidStudioProjects/todo/app/src/main/res/drawable/menu.xml" value="0.2245" />
         <entry key="..\:/Users/maksy/AndroidStudioProjects/todo/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/maksy/AndroidStudioProjects/todo/app/src/main/res/layout/fragment_detail.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/maksy/AndroidStudioProjects/todo/app/src/main/res/layout/fragment_favorites.xml" value="0.182518115942029" />
+        <entry key="..\:/Users/maksy/AndroidStudioProjects/todo/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/maksy/AndroidStudioProjects/todo/app/src/main/res/layout/fragment_main_menu.xml" value="0.32525951557093424" />
+        <entry key="..\:/Users/maksy/AndroidStudioProjects/todo/app/src/main/res/layout/fragment_settings.xml" value="0.182518115942029" />
+        <entry key="..\:/Users/maksy/AndroidStudioProjects/todo/app/src/main/res/layout/fragment_shop.xml" value="0.1" />
+        <entry key="..\:/Users/maksy/AndroidStudioProjects/todo/app/src/main/res/menu/main_menu.xml" value="0.22407407407407406" />
+        <entry key="..\:/Users/maksy/AndroidStudioProjects/todo/app/src/main/res/menu/top_menu.xml" value="0.152" />
       </map>
     </option>
   </component>

@@ -6,6 +6,11 @@
     <string name="account">ACCOUNT</string>
     <string name="favorites">FAVORITES</string>
     <string name="setting">SETTINGS</string>
-    <!-- TODO: Remove or change this placeholder text -->
+    <string name="play">CHECK</string>
+    <string name="film">ISLAND</string>
+    <string name="actor">LEO DIC</string>
+    <string name="range">120min</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="test">test</string>
+
 </resources>
